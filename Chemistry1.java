@@ -1,3 +1,4 @@
+//solution to chemistry problem
 import java.util.Scanner;
 
 public class Chemistry1 {
